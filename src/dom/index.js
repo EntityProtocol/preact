@@ -54,7 +54,7 @@ export function setAccessor(node, name, old, value, isSvg) {
 	}
 	else if (name==='style') {
 		if (!value || typeof value==='string' || typeof old==='string') {
-			node.style.cssText = value || '';
+			node.style.cssTex = value || '';
 		}
 		if (value && typeof value==='object') {
 			if (typeof old!=='string') {
