@@ -22,12 +22,7 @@ survey the damage:
 3. Run `npm run build`.
 4. Run `npm test`.
 
-You feel some relief when you see that only a small number of tests are failing.
-Hackerman has also left a tantalizing clue: only a single character has been
-changed. This makes your job a little easier, but it still feels like looking
-for a needle in a haystack.
-
-Your mission, if you choose to accept it: find the needle and fix the failing
+Your mission, if you choose to accept it: find the bugs and fix the failing
 tests!
 
 There are three bugs, each more difficult than the last. Fixing a bug and
